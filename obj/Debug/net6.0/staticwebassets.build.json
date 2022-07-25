@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1urAiMQnbfs5vKQ2dtTE/TCF8BFU61wRoF3YRrcsSws=",
+  "Source": "TestIoTHubApi",
+  "BasePath": "_content/TestIoTHubApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
