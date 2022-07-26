@@ -28,7 +28,7 @@ variables:
 
 
 
-  imageRepository: 'gopitestkube'
+  imageRepository: 'babukube'
 
 
 

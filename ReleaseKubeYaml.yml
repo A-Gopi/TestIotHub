@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: dotnetnxt
-          image: prdctmntc.azurecr.io/gopitestkube:#{Release.Artifacts.kubeconfiggopi.BuildId}#
+          image: prdctmntc.azurecr.io/babukube:#{Release.Artifacts.kubeconfiggopi.BuildId}#
       
           imagePullPolicy: Always
           ports: 
